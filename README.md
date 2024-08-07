@@ -7,5 +7,8 @@
 Description
 ### ???: SQL
 Description
+### ???: Power BI
+Description
+Image
 ## Certifications
 - HackerRank SQL Basic, Intermediate, Advanced
