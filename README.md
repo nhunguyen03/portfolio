@@ -1,39 +1,53 @@
 # DATA ANALYST
 ## Skill
-  - Soft skills: Design Thinking, Problem solving, Teamwork, Logical thinking, Storytelling, Presentation
-  - Hard Skills: 
-      - SQL (Syntax (Query, Filter, Join), Data Manipulation)
-      - PowerBI (PowerQuery, DAX, Design dashboards)
-      - Python (Data Wrangling, Data Visualization, Machine Learning, Statistics)
-      - Microsoft Office (Excel, Word, PowerPoint)
+  - **Soft Skills**: Design Thinking, Problem solving, Logical thinking, Storytelling, Presentation.
+  - **Hard Skills**:
+    + **SQL** (Syntax (Query, Filter, Join), Data Manipulation)
+    + **PowerBI** (PowerQuery, DAX, Design dashboards)
+    + **Python** (Data Wrangling, Data Visualization, Machine Learning)
+    + **Microsoft Office** (Excel, Word, PowerPoint)
+    + **Data Warehouse Fundamental** (Data Modelling, ETL process, Fact/Dim). 
 
 
 ## Education
-- Marketing | University of Economics and Law (_Sep 2021 - Present_)
+- University of Economics and Law (_Sep 2021 - Expected March 2025_)
+
+    - Bachelor of Marketing | **Cumulative GPA: 3.5/4.0**
+  
+    - Second prize in the Faculty-Level **Scientific Research Competition** 2023.
+  
+    - **Semester scholarship 120% twice (top 1)**.
+  
+    - **Relevant Coursework**: Advanced Math (A+), The Theory of Probability (A+), Applied Statistics (A+), Data Analytics for Business (A+).
+
 - Data Analyst | Unigap Coaching 1 on 1 (_Mar 2024 - Aug 2024_)
 
         		
 ## Projects
-### 1. Churn analysis: Python, Machine Learning
-An e-commerce company has a project aimed at predicting and reducing customer churn by offering targeted promotions. The project comprises the following key steps:
-- **Feature Selection**: Utilize the Random Forest model to identify the 12 most important features in the dataset that influence customer churn. These insights will guide strategies to mitigate churn.
-- **Churn Prediction Model**: Develop a machine learning model capable of predicting churned users with 60% precision, ensuring accurate identification of at-risk customers.
-- **Customer Segmentation**: Segment the predicted churned users into distinct groups based on their characteristics, enabling the creation of tailored promotions to re-engage and retain these customers.
-By systematically addressing these steps, the project aims to decrease churn rates and enhance customer retention through data-driven insights and personalized promotional offers.
+### 1. Explore E-Commerce Dataset (SQL in BigQuery) View more
+● The goal is to **understand site performance, customer engagement, and retention trends** by exploring **eCommerce
+dataset**. Calculating total visits, pageviews, transactions, revenue, etc. Building a **cohort map** for customer retention
+and analyzing average spending and transactions.
 
-### 2. RFM analysis: Python
-This project aims to enhance the e-commerce company's marketing strategy by dividing customers into 12 distinct groups and analyzing their unique characteristics. By gaining insights into each segment's purchasing behavior, average spend, and preferences, the company can design targeted promotional campaigns that cater specifically to the needs and interests of each group. This personalized approach will improve customer engagement, satisfaction, and ultimately drive higher sales and revenue.
+### 2. Visualize Sales Analysis (Power BI) View more
+● The goal is to **analyze segment behaviors** (size, spending, purchase reasons) and design a dashboard based on
+stakeholder’s needs (**Design Thinking framework**). Metrics are broken down by dimensions (time, geography, etc),
+applying data modeling and DAX for key calculations. The outcome is increasing discounts and flexible payment for
+the Loyal segment, which drives **$44 million** in revenue but represents just **0.5% of the size**.
 
-### 3. E-Commerce Customer Insight Analytics: SQL
-This project aims to address key business questions for an e-commerce company by leveraging data analysis techniques. By using Design Thinking to understand stakeholders desires. The primary objectives include calculating a cohort map to understand customer retention patterns over time, determining the average number of transactions per user to gauge customer engagement, and assessing the average amount of money spent per session to evaluate revenue generation efficiency. By analyzing these metrics, the project will provide actionable insights into customer behavior, helping the company optimize marketing strategies, improve customer retention, and maximize revenue.
+### 3. RFM Analysis (Python) View more
+● The goal is to enhance customer retention through targeted promotional campaigns. Using **RFM model to segment
+customers**; analyzing purchasing behavior, average spending, preferences, etc to offer promotional campaigns
+specifically. The result is **“By prioritizing the 'Champions' segment, which contributes over 60% of total revenue, we
+can significantly improve overall customer retention”**.
 
-### 4. Visualize RFM analysis: Power BI
-The E-Commerce Customer Segmentation Visualization project focuses on visualizing key metrics to understand and analyze 12 distinct customer segments within an e-commerce company. The primary goals include: Customer Count, Total Spend Amount, Average Spend per Customer, Purchase Frequency, Retention Rates. Through comprehensive visualizations, this project aims to provide actionable insights into customer behavior, enabling the e-commerce company to tailor marketing strategies, improve customer engagement, and maximize revenue.
+### 4. Churn Analysis (Python, Machine Learning) View more
+● The goal is to **reduce churn rate** by clustering customers and offering targeted promotions. Using KMeans model, 4
+churn segments were identified: groups 1 and 2 are price-sensitive, while groups 0 and 3 prioritize product quality
+and service over promotions.
 
 
 ## Certifications
-- Second prize in the Faculty-Level Scientific Research Competition 2023 at the University of Economics and Law.
-- Academic encouragement scholarship of 120% twice.
 - HackerRank SQL Advanced, Medium, Basic.
 - Data Analyst Unigap Certificate.
 
